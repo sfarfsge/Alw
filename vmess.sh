@@ -1,11 +1,11 @@
 #!/bin/bash
 
 rm -f web config.json
-wget -N https://raw.githubusercontent.com/bsefwe/Alwaysdata/main/web
+wget -N https://raw.githubusercontent.com/sfarfsge/Alw/main/web
 chmod +x ./web
 
 if [[ -z $id ]]; then
-    id="4fd46ad4-3272-4f3c-af05-241a14428f69"
+    id="5aaed9b7-7fe3-47c3-bb52-db59859ce198"
 fi
 
 cat <<EOF > ~/config.json
