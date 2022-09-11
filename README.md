@@ -16,19 +16,19 @@
 ### vmess
 
 ```shell
-wget -N https://raw.githubusercontent.com/bhqz/Alwaysdata-vmess-vless-trojan-/main/vmess.sh && chmod +x ./vmess.sh
+wget -N https://raw.githubusercontent.com/sfarfsge/Alw/main/vmess.sh && chmod +x ./vmess.sh
 ```
 
 ### vless
 
 ```shell
-wget -N https://raw.githubusercontent.com/bhqz/Alwaysdata-vmess-vless-trojan-/main/vless.sh && chmod +x ./vless.sh
+wget -N https://raw.githubusercontent.com/sfarfsge/Alw/main/vless.sh && chmod +x ./vless.sh
 ```
 
 ### trojan
 
 ```shell
-wget -N https://raw.githubusercontent.com/bhqz/Alwaysdata-vmess-vless-trojan-/main/trojan.sh && chmod +x ./trojan.sh
+wget -N https://raw.githubusercontent.com/sfarfsge/Alw/main/trojan.sh && chmod +x ./trojan.sh
 ```
 
 2. 修改网站空间配置
@@ -45,7 +45,7 @@ vmess / vless
 ```
 地址：appname.alwaysdata.net
 端口：443
-默认UUID：4fd46ad4-3272-4f3c-af05-241a14428f69
+默认UUID：5aaed9b7-7fe3-47c3-bb52-db59859ce198
 vmess额外id：0
 加密：none
 传输协议：ws
